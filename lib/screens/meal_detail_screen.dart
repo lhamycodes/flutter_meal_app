@@ -25,7 +25,7 @@ class MealDetailScreen extends StatelessWidget {
       margin: EdgeInsets.all(10),
       padding: EdgeInsets.all(10),
       height: 150,
-      width: 300,
+      width: double.infinity,
       child: child,
     );
   }
